@@ -1,0 +1,269 @@
+2025-10-30 16:33:55,675 - __main__ - INFO - ==================================================
+2025-10-30 16:33:55,676 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-30 16:33:55,676 - __main__ - INFO - ==================================================
+2025-10-30 16:33:55,676 - __main__ - INFO - Database: SQLite (local)
+2025-10-30 16:33:55,676 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-30 16:33:55,676 - __main__ - INFO - Cache TTL: 3600 seconds
+2025-10-30 16:33:55,676 - __main__ - INFO - Pool Size: 10
+2025-10-30 16:33:55,677 - __main__ - INFO - ==================================================
+2025-10-30 16:33:55,688 - __main__ - INFO - init_db executed in 10.92ms
+2025-10-30 16:33:55,695 - __main__ - INFO - seed_sample_data executed in 7.61ms
+2025-10-30 16:33:55,696 - __main__ - INFO - 
+2025-10-30 16:33:55,705 - __main__ - INFO - 
+2025-10-30 16:34:20,096 - __main__ - INFO - Retrieved 5 synonyms from database in 1.06ms
+2025-10-30 16:34:20,096 - __main__ - INFO - get_synonyms executed in 1.29ms
+2025-10-30 19:04:24,772 - __main__ - INFO - ==================================================
+2025-10-30 19:04:24,773 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-30 19:04:24,773 - __main__ - INFO - ==================================================
+2025-10-30 19:04:24,773 - __main__ - INFO - Database: SQLite (local)
+2025-10-30 19:04:24,773 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-30 19:04:24,773 - __main__ - INFO - Cache TTL: 3600 seconds
+2025-10-30 19:04:24,773 - __main__ - INFO - Pool Size: 10
+2025-10-30 19:04:24,773 - __main__ - INFO - ==================================================
+2025-10-30 19:04:24,785 - __main__ - INFO - init_db executed in 11.41ms
+2025-10-30 19:04:24,793 - __main__ - INFO - seed_sample_data executed in 7.37ms
+2025-10-30 19:04:24,793 - __main__ - INFO - 
+2025-10-30 19:04:24,802 - __main__ - INFO - 
+2025-10-30 19:04:48,783 - __main__ - INFO - Retrieved 5 synonyms from database in 1.73ms
+2025-10-30 19:04:48,784 - __main__ - INFO - get_synonyms executed in 2.12ms
+2025-10-30 19:12:00,285 - __main__ - INFO - Application shutting down...
+2025-10-31 12:30:17,297 - __main__ - INFO - ==================================================
+2025-10-31 12:30:17,297 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 12:30:17,297 - __main__ - INFO - ==================================================
+2025-10-31 12:30:17,297 - __main__ - INFO - Database: SQLite (local)
+2025-10-31 12:30:17,297 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 12:30:17,297 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 12:30:17,298 - __main__ - INFO - Pool Size: 10
+2025-10-31 12:30:17,298 - __main__ - INFO - ==================================================
+2025-10-31 12:30:17,383 - __main__ - INFO - init_db executed in 85.59ms
+2025-10-31 12:30:17,392 - __main__ - INFO - seed_sample_data executed in 8.23ms
+2025-10-31 12:30:17,392 - __main__ - INFO - 
+2025-10-31 12:30:17,400 - __main__ - INFO - 
+2025-10-31 12:33:15,022 - __main__ - INFO - Retrieved 5 synonyms from database in 1.07ms
+2025-10-31 12:33:15,022 - __main__ - INFO - get_synonyms executed in 1.33ms
+2025-10-31 12:33:15,060 - __main__ - INFO - Retrieved 5 synonyms from cache in 0.08ms
+2025-10-31 12:33:15,060 - __main__ - INFO - get_synonyms executed in 0.35ms
+2025-10-31 12:33:15,087 - __main__ - INFO - Cache cleared (in-memory)
+2025-10-31 12:33:15,087 - __main__ - INFO - Cache cleared via API
+2025-10-31 12:40:43,767 - __main__ - INFO - ==================================================
+2025-10-31 12:40:43,767 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 12:40:43,768 - __main__ - INFO - ==================================================
+2025-10-31 12:40:43,768 - __main__ - INFO - Database: SQLite (local)
+2025-10-31 12:40:43,768 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 12:40:43,768 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 12:40:43,768 - __main__ - INFO - Pool Size: 10
+2025-10-31 12:40:43,768 - __main__ - INFO - ==================================================
+2025-10-31 12:40:43,831 - __main__ - INFO - init_db executed in 62.89ms
+2025-10-31 12:40:43,838 - __main__ - INFO - seed_sample_data executed in 6.66ms
+2025-10-31 12:40:43,838 - __main__ - INFO - 
+2025-10-31 12:40:43,846 - __main__ - INFO - 
+2025-10-31 12:40:48,628 - __main__ - INFO - Application shutting down...
+2025-10-31 13:14:03,418 - __main__ - INFO - ==================================================
+2025-10-31 13:14:03,419 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:14:03,419 - __main__ - INFO - ==================================================
+2025-10-31 13:14:03,419 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:14:03,419 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:14:03,419 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:14:03,419 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:14:03,419 - __main__ - INFO - ==================================================
+2025-10-31 13:14:51,506 - __main__ - INFO - ==================================================
+2025-10-31 13:14:51,506 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:14:51,506 - __main__ - INFO - ==================================================
+2025-10-31 13:14:51,506 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:14:51,506 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:14:51,506 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:14:51,507 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:14:51,507 - __main__ - INFO - ==================================================
+2025-10-31 13:25:42,563 - __main__ - INFO - ==================================================
+2025-10-31 13:25:42,563 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:25:42,563 - __main__ - INFO - ==================================================
+2025-10-31 13:25:42,563 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:25:42,563 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:25:42,563 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:25:42,564 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:25:42,564 - __main__ - INFO - ==================================================
+2025-10-31 13:45:47,308 - __main__ - INFO - ==================================================
+2025-10-31 13:45:47,309 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:45:47,309 - __main__ - INFO - ==================================================
+2025-10-31 13:45:47,309 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:45:47,309 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:45:47,309 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:45:47,309 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:45:47,309 - __main__ - INFO - ==================================================
+2025-10-31 13:47:39,649 - __main__ - INFO - ==================================================
+2025-10-31 13:47:39,650 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:47:39,650 - __main__ - INFO - ==================================================
+2025-10-31 13:47:39,650 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:47:39,650 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:47:39,650 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:47:39,650 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:47:39,650 - __main__ - INFO - ==================================================
+2025-10-31 13:51:15,126 - __main__ - INFO - ==================================================
+2025-10-31 13:51:15,127 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:51:15,127 - __main__ - INFO - ==================================================
+2025-10-31 13:51:15,127 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:51:15,127 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:51:15,127 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:51:15,127 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:51:15,127 - __main__ - INFO - ==================================================
+2025-10-31 13:52:03,699 - __main__ - INFO - ==================================================
+2025-10-31 13:52:03,700 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:52:03,700 - __main__ - INFO - ==================================================
+2025-10-31 13:52:03,700 - __main__ - INFO - Database: SQLite (local)
+2025-10-31 13:52:03,700 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:52:03,700 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:52:03,700 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:52:03,700 - __main__ - INFO - ==================================================
+2025-10-31 13:52:03,713 - __main__ - INFO - init_db executed in 12.32ms
+2025-10-31 13:52:03,721 - __main__ - INFO - seed_sample_data executed in 7.66ms
+2025-10-31 13:52:03,721 - __main__ - INFO - 
+2025-10-31 13:52:03,729 - __main__ - INFO - 
+2025-10-31 13:52:12,132 - __main__ - INFO - Retrieved 5 synonyms from database in 1.46ms
+2025-10-31 13:52:12,132 - __main__ - INFO - get_synonyms executed in 1.73ms
+2025-10-31 13:52:37,721 - __main__ - INFO - Application shutting down...
+2025-10-31 13:52:41,017 - __main__ - INFO - ==================================================
+2025-10-31 13:52:41,017 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 13:52:41,017 - __main__ - INFO - ==================================================
+2025-10-31 13:52:41,018 - __main__ - INFO - Database: SQL Server
+2025-10-31 13:52:41,018 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 13:52:41,018 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 13:52:41,018 - __main__ - INFO - Pool Size: 10
+2025-10-31 13:52:41,018 - __main__ - INFO - ==================================================
+2025-10-31 14:21:59,362 - __main__ - INFO - ==================================================
+2025-10-31 14:21:59,362 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:21:59,362 - __main__ - INFO - ==================================================
+2025-10-31 14:21:59,362 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:21:59,362 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:21:59,362 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:21:59,363 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:21:59,363 - __main__ - INFO - ==================================================
+2025-10-31 14:38:01,236 - __main__ - INFO - ==================================================
+2025-10-31 14:38:01,236 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:38:01,236 - __main__ - INFO - ==================================================
+2025-10-31 14:38:01,236 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:38:01,237 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:38:01,237 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:38:01,237 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:38:01,237 - __main__ - INFO - ==================================================
+2025-10-31 14:38:31,696 - __main__ - INFO - ==================================================
+2025-10-31 14:38:31,696 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:38:31,697 - __main__ - INFO - ==================================================
+2025-10-31 14:38:31,697 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:38:31,697 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:38:31,697 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:38:31,697 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:38:31,697 - __main__ - INFO - ==================================================
+2025-10-31 14:42:52,595 - __main__ - INFO - ==================================================
+2025-10-31 14:42:52,596 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:42:52,596 - __main__ - INFO - ==================================================
+2025-10-31 14:42:52,596 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:42:52,596 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:42:52,596 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:42:52,596 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:42:52,596 - __main__ - INFO - ==================================================
+2025-10-31 14:43:20,267 - __main__ - INFO - ==================================================
+2025-10-31 14:43:20,267 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:43:20,267 - __main__ - INFO - ==================================================
+2025-10-31 14:43:20,267 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:43:20,267 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:43:20,268 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:43:20,268 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:43:20,268 - __main__ - INFO - ==================================================
+2025-10-31 14:44:31,903 - __main__ - INFO - ==================================================
+2025-10-31 14:44:31,903 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:44:31,903 - __main__ - INFO - ==================================================
+2025-10-31 14:44:31,903 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:44:31,904 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:44:31,904 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:44:31,904 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:44:31,904 - __main__ - INFO - ==================================================
+2025-10-31 14:48:46,369 - __main__ - INFO - ==================================================
+2025-10-31 14:48:46,369 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:48:46,369 - __main__ - INFO - ==================================================
+2025-10-31 14:48:46,369 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:48:46,369 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:48:46,370 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:48:46,370 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:48:46,370 - __main__ - INFO - ==================================================
+2025-10-31 14:48:46,549 - __main__ - INFO - init_db executed in 178.90ms
+2025-10-31 14:48:46,566 - __main__ - INFO - seed_sample_data executed in 17.30ms
+2025-10-31 14:48:46,566 - __main__ - INFO - 
+2025-10-31 14:48:46,575 - __main__ - INFO - 
+2025-10-31 14:50:43,656 - __main__ - INFO - Retrieved 8 synonyms from database in 4.35ms
+2025-10-31 14:50:43,656 - __main__ - INFO - get_synonyms executed in 4.66ms
+2025-10-31 14:51:48,749 - __main__ - INFO - Application shutting down...
+2025-10-31 14:52:56,533 - __main__ - WARNING - Failed to initialize CacheStrategy.REDIS cache: Failed to connect to Redis: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-10-31 14:52:56,533 - __main__ - INFO - Falling back to in-memory cache
+2025-10-31 14:52:56,595 - __main__ - INFO - ==================================================
+2025-10-31 14:52:56,595 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:52:56,595 - __main__ - INFO - ==================================================
+2025-10-31 14:52:56,595 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:52:56,595 - __main__ - INFO - Cache Strategy: CacheStrategy.REDIS
+2025-10-31 14:52:56,596 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 14:52:56,596 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:52:56,596 - __main__ - INFO - ==================================================
+2025-10-31 14:52:56,640 - __main__ - INFO - init_db executed in 43.89ms
+2025-10-31 14:52:56,649 - __main__ - INFO - seed_sample_data executed in 9.39ms
+2025-10-31 14:52:56,649 - __main__ - INFO - 
+2025-10-31 14:52:56,658 - __main__ - INFO - 
+2025-10-31 14:53:15,910 - __main__ - INFO - Application shutting down...
+2025-10-31 14:53:19,859 - __main__ - INFO - ==================================================
+2025-10-31 14:53:19,860 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:53:19,860 - __main__ - INFO - ==================================================
+2025-10-31 14:53:19,860 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:53:19,860 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:53:19,860 - __main__ - INFO - Cache TTL: 3600 seconds
+2025-10-31 14:53:19,860 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:53:19,860 - __main__ - INFO - ==================================================
+2025-10-31 14:53:19,907 - __main__ - INFO - init_db executed in 46.70ms
+2025-10-31 14:53:19,916 - __main__ - INFO - seed_sample_data executed in 9.06ms
+2025-10-31 14:53:19,917 - __main__ - INFO - 
+2025-10-31 14:53:19,925 - __main__ - INFO - 
+2025-10-31 14:53:41,017 - __main__ - INFO - Application shutting down...
+2025-10-31 14:59:20,327 - __main__ - INFO - ==================================================
+2025-10-31 14:59:20,328 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 14:59:20,328 - __main__ - INFO - ==================================================
+2025-10-31 14:59:20,328 - __main__ - INFO - Database: SQL Server
+2025-10-31 14:59:20,328 - __main__ - INFO - Cache Strategy: CacheStrategy.MEMORY
+2025-10-31 14:59:20,328 - __main__ - INFO - Cache TTL: 3600 seconds
+2025-10-31 14:59:20,328 - __main__ - INFO - Pool Size: 10
+2025-10-31 14:59:20,328 - __main__ - INFO - ==================================================
+2025-10-31 14:59:20,603 - __main__ - INFO - init_db executed in 274.81ms
+2025-10-31 14:59:20,622 - __main__ - INFO - seed_sample_data executed in 18.26ms
+2025-10-31 14:59:20,622 - __main__ - INFO - 
+2025-10-31 14:59:20,630 - __main__ - INFO - 
+2025-10-31 15:05:46,370 - __main__ - INFO - Retrieved 8 synonyms from database in 3.97ms
+2025-10-31 15:05:46,370 - __main__ - INFO - get_synonyms executed in 4.30ms
+2025-10-31 15:06:13,226 - __main__ - INFO - Retrieved 8 synonyms from cache in 0.07ms
+2025-10-31 15:06:13,226 - __main__ - INFO - get_synonyms executed in 0.32ms
+2025-10-31 15:08:05,648 - __main__ - INFO - Application shutting down...
+2025-10-31 15:08:45,226 - __main__ - INFO - ==================================================
+2025-10-31 15:08:45,226 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 15:08:45,226 - __main__ - INFO - ==================================================
+2025-10-31 15:08:45,226 - __main__ - INFO - Database: SQL Server
+2025-10-31 15:08:45,227 - __main__ - INFO - Cache Strategy: CacheStrategy.REDIS
+2025-10-31 15:08:45,227 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 15:08:45,227 - __main__ - INFO - Pool Size: 10
+2025-10-31 15:08:45,227 - __main__ - INFO - ==================================================
+2025-10-31 15:08:45,279 - __main__ - INFO - init_db executed in 51.66ms
+2025-10-31 15:08:45,289 - __main__ - INFO - seed_sample_data executed in 10.67ms
+2025-10-31 15:08:45,290 - __main__ - INFO - 
+2025-10-31 15:08:45,299 - __main__ - INFO - 
+2025-10-31 15:08:52,709 - __main__ - INFO - Retrieved 8 synonyms from database in 5.99ms
+2025-10-31 15:08:52,710 - __main__ - INFO - get_synonyms executed in 6.33ms
+2025-10-31 15:08:57,126 - __main__ - INFO - Retrieved 8 synonyms from cache in 0.74ms
+2025-10-31 15:08:57,126 - __main__ - INFO - get_synonyms executed in 0.98ms
+2025-10-31 15:09:06,383 - __main__ - INFO - Application shutting down...
+2025-10-31 15:09:44,141 - __main__ - INFO - ==================================================
+2025-10-31 15:09:44,142 - __main__ - INFO - Data Engine Synonym System - Starting Up
+2025-10-31 15:09:44,142 - __main__ - INFO - ==================================================
+2025-10-31 15:09:44,142 - __main__ - INFO - Database: SQL Server
+2025-10-31 15:09:44,142 - __main__ - INFO - Cache Strategy: CacheStrategy.REDIS
+2025-10-31 15:09:44,142 - __main__ - INFO - Cache TTL: 60 seconds
+2025-10-31 15:09:44,142 - __main__ - INFO - Pool Size: 10
+2025-10-31 15:09:44,143 - __main__ - INFO - ==================================================
+2025-10-31 15:09:44,187 - __main__ - INFO - init_db executed in 44.75ms
+2025-10-31 15:09:44,198 - __main__ - INFO - seed_sample_data executed in 10.03ms
+2025-10-31 15:09:44,198 - __main__ - INFO - 
+2025-10-31 15:09:44,207 - __main__ - INFO - 
+2025-10-31 15:11:03,779 - __main__ - INFO - Application shutting down...
