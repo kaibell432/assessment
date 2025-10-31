@@ -1,7 +1,6 @@
 # Dependencies
 node_modules/
 vendor/
-.env
 
 # IDE specific files
 .idea/
